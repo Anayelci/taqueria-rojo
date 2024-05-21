@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<title> TAQUERIA TOYS</title>
+<img src="images/logo.jpg",width="100",heigth="100"></img>
+<h1>TAQUERIA</h1>
+</head>
+<hr>
+<body bgcolor="f39DFC">
+<ul>
+<li><a href="index.html">Principal</a></li>
+<li><a href="servicios.html">Servicios que ofrecemos</a></li>
+<li><a href="contactanos.html">Contactanos</a></li>
+</ul>
+<h2>Principal</h2>
+<p>Somos una empresa que ofrece diferentes servicios de calidad para todo el publico de nuestra localidad de. Pihuamo. Si quieres mas informacion presiona en los enlaces del menu</p>
+<img src="images/servicios taqueria.jpg",width="100",heigth="100"></img>
+<img src="images/contactanos.jpg",width="100",heigth="100"></img>
+</body>
+</html>
